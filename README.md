@@ -1,4 +1,4 @@
-This repository documents the completion of Task 1: Web Application Security Testing for the Future Interns Cybersecurity Internship. The goal of this task was to perform a penetration test on a target web application—the intentionally vulnerable OWASP Juice Shop—to identify, exploit, and document critical security flaws.
+This repository documents the completion of Task 1: Web Application Security Testing for the Future Interns Cybersecurity Internship. The goal of this task was to perform a penetration test on a target web application the intentionally vulnerable OWASP Juice Shop to identify, exploit, and document critical security flaws.
 
 The primary deliverable is a detailed security assessment report and the documentation of Proof-of-Concept (PoC) steps for each vulnerability found.
 
