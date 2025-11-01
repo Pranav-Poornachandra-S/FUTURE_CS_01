@@ -10,6 +10,7 @@ Objectives:
 3. Reporting: Create a professional security assessment report detailing findings and providing actionable mitigation strategies.
 
 Key Vulnerabilities Identified:
+
 During the assessment, five high-impact vulnerabilities were successfully discovered and documented. These findings demonstrate proficiency in identifying fundamental web security weaknesses.
 
 1. SQL Injection (Critical Risk): Successfully bypassed authentication via the login form.
